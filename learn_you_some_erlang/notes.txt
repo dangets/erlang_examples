@@ -1,0 +1,22 @@
+########################
+# shell
+erl
+	help().	# print shell commands
+	q().	# quit shell
+
+	^G
+		h	# help
+		q	# quit
+		c	# connect
+		k	# kill
+		...
+
+
+########################
+# math / numbers
+5 / 2
+5 div 2		# integer division
+5 mod 2
+
+2#101010	# binary
+16#AE01		# hex

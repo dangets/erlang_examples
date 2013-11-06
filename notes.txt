@@ -1,0 +1,18 @@
+# comments use percent sign
+% comment
+
+Module filename must match module declaration (first line)
+e.g.
+-module(math1).   % inside of math1.erl
+
+# import/compile in shell
+c(math1).
+
+# printing
+io:format("~w~n", [arg])
+
+
+# lists
+lists:map(fun, [])
+lists:filter(fun, [])
+lists:member(val, [])

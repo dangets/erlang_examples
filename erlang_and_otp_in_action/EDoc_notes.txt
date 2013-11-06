@@ -1,0 +1,9 @@
+
+%%% file level comment
+
+Tags:
+	@author		Author information and email address
+	@copyright	Date and attribution
+	@doc		General documentation text.  First sentence is used as a summary description
+				Can contain valid XHTML and some wiki markup
+	@end		Ends any tag above it.
